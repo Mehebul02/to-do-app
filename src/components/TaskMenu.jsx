@@ -24,16 +24,7 @@ const TaskMenu = () => {
                     </Link>
                 ))
             }
-             {/* my task  */}
-           {/* <Link href='/mytask' className={`flex flex-col justify-center items-center ${pathName.mytask  && 'text-green-600 border-b-2'}`}>
-           <span className="text-4xl text-[#6c6a6a]"><IoIosContact /> </span>
-           <h1 className="uppercase text-xl  font-medium">My Task</h1>
-           </Link> */}
-           {/* my team  */}
-           {/* <Link href='/myteam' cclassName={`flex flex-col justify-center items-center ${pathName.myteam && 'text-green-600 border-b-2'}`}>
-           <span className="text-4xl text-[#6c6a6a]"><IoIosContacts /></span> 
-           <h1 className="uppercase text-xl  font-medium">My team</h1>
-           </Link> */}
+             
           </div>
            </div>
         </Container>
