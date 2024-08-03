@@ -14,7 +14,7 @@ const MyTask = () => {
 
 <Image className="w-52 mx-auto" src={question} alt="question"/>
 
-<h1 className="text-3xl  font-serif font-semibold text-black text-center my-6">You Don't have a tasks</h1>
+<h1 className="text-3xl  font-serif font-semibold text-black text-center my-6">You Dont have a tasks</h1>
 
          </div>
         </Container>
