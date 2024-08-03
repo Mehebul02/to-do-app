@@ -4,8 +4,7 @@ import MyTask from "./mytask/page";
 const Home = () => {
   return (
     <main>
-      <TaskMenu/>
-      <MyTask/>
+     <MyTask/>
     </main>
   );
 };
